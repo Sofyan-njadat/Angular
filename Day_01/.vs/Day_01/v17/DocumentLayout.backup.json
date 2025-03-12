@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F467EB82-166F-40B5-BC6A-82B3744D7BD6}|day_01.client\\day_01.client.esproj|c:\\users\\orange\\desktop\\coding academy\\angular\\day_01\\day_01.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F467EB82-166F-40B5-BC6A-82B3744D7BD6}|day_01.client\\day_01.client.esproj|solutionrelative:day_01.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F467EB82-166F-40B5-BC6A-82B3744D7BD6}|day_01.client\\day_01.client.esproj|c:\\users\\orange\\desktop\\coding academy\\angular\\day_01\\day_01.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F467EB82-166F-40B5-BC6A-82B3744D7BD6}|day_01.client\\day_01.client.esproj|solutionrelative:day_01.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F467EB82-166F-40B5-BC6A-82B3744D7BD6}|day_01.client\\day_01.client.esproj|c:\\users\\orange\\desktop\\coding academy\\angular\\day_01\\day_01.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F467EB82-166F-40B5-BC6A-82B3744D7BD6}|day_01.client\\day_01.client.esproj|solutionrelative:day_01.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F467EB82-166F-40B5-BC6A-82B3744D7BD6}|day_01.client\\day_01.client.esproj|c:\\users\\orange\\desktop\\coding academy\\angular\\day_01\\day_01.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F467EB82-166F-40B5-BC6A-82B3744D7BD6}|day_01.client\\day_01.client.esproj|solutionrelative:day_01.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_01\\day_01.client\\src\\index.html",
+              "RelativeDocumentMoniker": "day_01.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_01\\day_01.client\\src\\index.html",
+              "RelativeToolTip": "day_01.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T14:21:45.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_01\\day_01.client\\src\\app\\category\\category.component.html",
+              "RelativeDocumentMoniker": "day_01.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_01\\day_01.client\\src\\app\\category\\category.component.html",
+              "RelativeToolTip": "day_01.client\\src\\app\\category\\category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T14:09:38.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_01\\day_01.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "day_01.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_01\\day_01.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "day_01.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T13:46:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "products.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_01\\day_01.client\\src\\app\\products\\products.component.html",
+              "RelativeDocumentMoniker": "day_01.client\\src\\app\\products\\products.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_01\\day_01.client\\src\\app\\products\\products.component.html",
+              "RelativeToolTip": "day_01.client\\src\\app\\products\\products.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T14:14:54.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
