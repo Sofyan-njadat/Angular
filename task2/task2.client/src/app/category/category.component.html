@@ -1,0 +1,20 @@
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr *ngFor="let item of datacategory">
+      <th scope="row">1</th>
+  
+      <td>{{item.name}}</td>
+      <td>{{item.id}}</td>
+      <td><a routerLink="/product/{{item.id}}">Product</a></td>
+    </tr>
+  </tbody>
+</table>
