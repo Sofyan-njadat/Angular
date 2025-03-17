@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:63375",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\Angular\\task2\\task2.Server\\..\\task2.client",
+"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\task2\\task2.Server\\..\\task2.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

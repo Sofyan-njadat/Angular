@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "hpTFiTJEoY7uVq5g1vfPazOchFIWgXKMI2jF7tYBu+U=",
+  "Hash": "tFh/MKwe4QNo8qzp0OKnQ8y1J5pF+gBsEGTaFEXKuLQ=",
   "Source": "task2.Server",
   "BasePath": "_content/task2.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orange\\Desktop\\Angular\\task2\\task2.client\\task2.client.esproj",
+      "Identity": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\task2\\task2.client\\task2.client.esproj",
       "Version": 2,
       "Source": "task2.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

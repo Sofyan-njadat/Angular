@@ -1,2 +1,3 @@
 C:\Users\ammar\OneDrive\Desktop\New folder (8)\task2\task2.client\obj\Debug\task2.client.esproj.CoreCompileInputs.cache
 C:\Users\Orange\Desktop\Angular\task2\task2.client\obj\Debug\task2.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Coding Academy\Angular\task2\task2.client\obj\Debug\task2.client.esproj.CoreCompileInputs.cache
