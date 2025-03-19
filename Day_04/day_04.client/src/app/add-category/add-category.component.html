@@ -1,0 +1,16 @@
+
+
+<h1>Add Category Page</h1>
+
+
+<form class="add-form" #AddCategory="ngForm" (ngSubmit)="addcategory(AddCategory)">
+  <div class="form-group">
+    <label for="name">name:</label>
+    <input type="text" id="name" name="name" ngModel required>
+  </div>
+  <div class="form-group">
+    <label for="description">description:</label>
+    <textarea id="description" name="img" ngModel required></textarea>
+  </div>
+  <button type="submit">Add Category</button>
+</form>

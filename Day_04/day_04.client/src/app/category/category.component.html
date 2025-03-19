@@ -1,0 +1,22 @@
+<h1>Categorys Page</h1>
+<a class="add-btn" routerLink="AddCategory">Add Category</a>
+
+<table class="tbl">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of category">
+      <td>{{item.id}}</td>
+      <td>{{item.name}}</td>
+      <td>
+        <button class="edit-btn">Edit</button>
+        <button class="delete-btn">Delete</button>
+      </td>
+    </tr>
+  </tbody>
+</table>

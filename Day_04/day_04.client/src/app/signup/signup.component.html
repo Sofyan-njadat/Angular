@@ -1,0 +1,37 @@
+<div class="body">
+  <h2>Sign in / Sign up Form</h2>
+
+  <div class="container">
+    <input type="radio" id="sign-in-tab" name="toggle">
+    <input type="radio" id="sign-up-tab" name="toggle" checked>
+
+    <div class="form-container">
+      <form class="sign-in" #signin="ngForm" (ngSubmit)="signinBtn(signin)">
+        <h1>Sign In</h1>
+        <input type="email" placeholder="Email" name="email" ngModel required>
+        <input type="password" placeholder="Password" name="password" ngModel required>
+        <a href="#">Forgot your password?</a>
+        <button type="submit">Sign In</button>
+      </form>
+
+      <form class="sign-up" #SignUp="ngForm" (ngSubmit)="signupBtn(SignUp)">
+
+        <h1>Create Account</h1>
+        <input type="text" placeholder="Name" name="name" ngModel required>
+        <input type="email" placeholder="Email" name="email" ngModel required>
+        <input type="password" placeholder="Password" name="password" ngModel required>
+        <button type="submit">Sign Up</button>
+      </form>
+    </div>
+
+    <div class="tabs">
+      <label for="sign-in-tab">Sign In</label>
+      <label for="sign-up-tab">Sign Up</label>
+    </div>
+  </div>
+</div>
+
+
+
+
+
