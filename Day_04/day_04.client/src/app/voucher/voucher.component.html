@@ -1,0 +1,32 @@
+<h1>Voucher Page</h1>
+
+
+<a class="add-btn" routerLink="AddVoucher">Add voucher</a>
+
+<table class="tbl">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Name</th>
+      <th>Price</th>
+      <th>quantity</th>
+
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of v">
+      <td>{{item.id}}</td>
+      <td>{{item.name}}</td>
+      <td>{{item.price}}</td>
+      <td>{{item.quantity}}</td>
+
+
+      <td>
+        <a class="edit-btn" routerLink="/home/editVoucher/{{item.id}}">Edit</a>
+        <!--<button class="delete-btn">Delete</button>-->
+      </td>
+    </tr>
+
+  </tbody>
+</table>

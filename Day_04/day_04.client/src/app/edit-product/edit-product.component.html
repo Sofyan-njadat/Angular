@@ -1,0 +1,27 @@
+
+
+<h1>Edit Product</h1>
+
+
+<form class="edit-form" #EditProduct="ngForm" (ngSubmit)="updateProduct(EditProduct)">
+  <div class="form-group">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" [(ngModel)]="product.name" ngModel required>
+  </div>
+  <div class="form-group">
+    <label for="description">Description:</label>
+    <textarea id="description" name="avatar" [(ngModel)]="product.avatar" required></textarea>
+  </div>
+  <div class="form-group">
+    <label for="dropdown">Select Category:</label>
+
+    <select id="categoryId" name="categoryId" ngModel>
+      <option value="" disabled selected>Select a category</option>
+      <option *ngFor="let item of category" [value]="item.id">{{ item.name }}</option>
+    </select>
+  </div>
+
+  <button type="submit"> Update Product </button>
+</form>
+
+

@@ -1,0 +1,30 @@
+
+
+<div class="popup-overlay" id="popup">
+  <div class="popup-content">
+    <div class="popup-header">
+      <h2> Edit Your Info </h2>
+      <button class="close-btn" (click)="closeEditProfile()">X</button>
+    </div>
+    <div class="popup-body">
+      <form #userInfo="ngForm" (ngSubmit)="updateUserInfo(userInfo.value)">
+        <div class="profile-detail">
+          <label>Name : </label>
+          <input type="text" name="name" [(ngModel)]="user.name" />
+        </div>
+        <div class="profile-detail">
+          <label>Email : </label>
+          <input type="text" name="email" [(ngModel)]="user.email" />
+        </div>
+        <div class="profile-detail">
+          <label>Password : </label>
+          <input type="text" name="password" [(ngModel)]="user.password" />
+        </div>
+        <button class="close-btn">Edit My Info</button>
+
+      </form>
+    </div>
+    <div class="popup-footer">
+    </div>
+  </div>
+</div>

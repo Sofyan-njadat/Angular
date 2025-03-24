@@ -1,0 +1,27 @@
+
+
+<div class="body">
+  <div class="profile-container">
+    <div class="profile-card">
+      <h2 class="profile-title">Profile</h2>
+      <div class="profile-detail">
+        <label for="name">Name:</label>
+        <span id="name">{{userInfo.name}}</span>
+      </div>
+      <div class="profile-detail">
+        <label for="email">Email:</label>
+        <span id="email">{{userInfo.email}}</span>
+      </div>
+      <div class="profile-detail">
+        <label for="password">Password:</label>
+        <span id="password">{{userInfo.password}}</span>
+      </div>
+      <a class="edit-btn" routerLink="EditProfile" (click)="displayEdit()">Edit</a>
+    </div>
+  </div>
+
+  <app-edit-profil [user]="userInfo" (newUserInfo)="updateUser($event)"></app-edit-profil>
+</div>
+
+
+

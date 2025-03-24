@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1A3FBF7-BD78-4BAE-9221-684E3E9CCD12}|day_04.client\\day_04.client.esproj|c:\\users\\orange\\desktop\\coding academy\\angular\\day_04\\day_04.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E1A3FBF7-BD78-4BAE-9221-684E3E9CCD12}|day_04.client\\day_04.client.esproj|solutionrelative:day_04.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1A3FBF7-BD78-4BAE-9221-684E3E9CCD12}|day_04.client\\day_04.client.esproj|c:\\users\\orange\\desktop\\coding academy\\angular\\day_04\\day_04.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E1A3FBF7-BD78-4BAE-9221-684E3E9CCD12}|day_04.client\\day_04.client.esproj|solutionrelative:day_04.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E1A3FBF7-BD78-4BAE-9221-684E3E9CCD12}|day_04.client\\day_04.client.esproj|c:\\users\\orange\\desktop\\coding academy\\angular\\day_04\\day_04.client\\src\\app\\voucher\\voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1A3FBF7-BD78-4BAE-9221-684E3E9CCD12}|day_04.client\\day_04.client.esproj|solutionrelative:day_04.client\\src\\app\\voucher\\voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_04\\day_04.client\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "day_04.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_04\\day_04.client\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "day_04.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T03:41:24.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "home.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_04\\day_04.client\\src\\app\\home\\home.component.html",
-              "RelativeDocumentMoniker": "day_04.client\\src\\app\\home\\home.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_04\\day_04.client\\src\\app\\home\\home.component.html",
-              "RelativeToolTip": "day_04.client\\src\\app\\home\\home.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Title": "voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_04\\day_04.client\\src\\app\\voucher\\voucher.component.html",
+              "RelativeDocumentMoniker": "day_04.client\\src\\app\\voucher\\voucher.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\Angular\\Day_04\\day_04.client\\src\\app\\voucher\\voucher.component.html*",
+              "RelativeToolTip": "day_04.client\\src\\app\\voucher\\voucher.component.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T03:40:45.391Z",
+              "WhenOpened": "2025-03-24T02:14:28.588Z",
               "EditorCaption": ""
             }
           ]

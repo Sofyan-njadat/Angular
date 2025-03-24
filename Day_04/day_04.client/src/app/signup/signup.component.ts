@@ -22,7 +22,7 @@ export class SignupComponent {
   signupBtn(data: any) {
     let User = data.value;
     this._ser.singUp(User).subscribe(() => {
-      alert(`${User.name} signUp successful`);
+      alert(`${User.name} Sign Up successfuly !`);
     });
   }
 
@@ -35,11 +35,11 @@ export class SignupComponent {
       this.userChecked = d.find((u: any) => u.email == user.email && u.password == user.password);
 
       if (this.userChecked) {
-        alert("Loged in successful");
+        alert(`Welcome Back ${user.email} !`);
         this.router.navigate(["/home"]);
 
       } else {
-        alert("email or password invalied");
+        alert("Email or password invalied");
       }
 
     })
